@@ -1,0 +1,11 @@
+C:\Users\rocket\source\repos\Note_SA\Note_SA\bin\Debug\Note_SA.exe
+C:\Users\rocket\source\repos\Note_SA\Note_SA\bin\Debug\Note_SA.exe.config
+C:\Users\rocket\source\repos\Note_SA\Note_SA\bin\Debug\Note_SA.pdb
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.Dev_Task.resources
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.Form1.resources
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.Properties.Resources.resources
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.csproj.GenerateResource.cache
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.csproj.CoreCompileInputs.cache
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.exe
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.pdb
+C:\Users\rocket\source\repos\Note_SA\Note_SA\obj\Debug\Note_SA.csproj.AssemblyReference.cache
