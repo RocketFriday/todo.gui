@@ -22,4 +22,6 @@ Some comments:
 
 - I have it minimized to tray to be out of the way unless wanted/needed. I don't use it windowed or otherwise so I removed the ui buttons in the build.
 
+- Double clicking the taskbar icon opens/minimizes the application.
+
 - Escape key quits the entire application.
